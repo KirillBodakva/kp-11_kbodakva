@@ -1,0 +1,18 @@
+﻿<Window x:Class="FirstApp.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FirstApp"
+        mc:Ignorable="d"
+        Title="Інформація" Height="258" Width="450" WindowStyle="None">
+    <Grid x:Name="Інформація" Visibility="Visible">
+        <Button x:Name ="GoToMainWin" Content="До головного вікна" HorizontalAlignment="Left" 
+                Margin="294,184,0,0" VerticalAlignment="Top" Height="46" Width="124" Click="Esc_Click"/>
+        <Label Name="Label1" Width="309" HorizontalAlignment="Left" Margin="69,61,0,79">
+            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" Width="309" Height="108">
+    Роботу виконав студент групи КП-11 Бодаква Кирил Ігорович
+            </TextBlock>
+        </Label>
+    </Grid>
+</Window>
