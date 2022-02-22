@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prj_Soft_Protection/1.0.0": {
+        "runtime": {
+          "Prj_Soft_Protection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prj_Soft_Protection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
