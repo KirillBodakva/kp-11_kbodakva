@@ -1,0 +1,15 @@
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin.csprojAssemblyReference.cache
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\MainWindow.g.cs
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\App.g.cs
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin_MarkupCompile.cache
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin_MarkupCompile.lref
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\bin\Debug\TestNewWin.exe.config
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\bin\Debug\TestNewWin.exe
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\bin\Debug\TestNewWin.pdb
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\MainWindow.baml
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin.g.resources
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin.Properties.Resources.resources
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin.csproj.GenerateResource.cache
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin.csproj.CoreCompileInputs.cache
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin.exe
+C:\Users\4labs\OneDrive\Рабочий стол\TestNewWin\TestNewWin\obj\Debug\TestNewWin.pdb

@@ -1,0 +1,29 @@
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\bin\Debug\net6.0-windows\lab 2.exe
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\bin\Debug\net6.0-windows\lab 2.deps.json
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\bin\Debug\net6.0-windows\lab 2.runtimeconfig.json
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\bin\Debug\net6.0-windows\lab 2.dll
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\bin\Debug\net6.0-windows\ref\lab 2.dll
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\bin\Debug\net6.0-windows\lab 2.pdb
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.csproj.AssemblyReference.cache
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\Calculator.g.cs
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\Info.g.cs
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\База.g.cs
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\Гра.g.cs
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2_MarkupCompile.cache
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2_MarkupCompile.lref
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\Calculator.baml
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\Info.baml
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\База.baml
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\Гра.baml
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.g.resources
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.AssemblyInfoInputs.cache
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.AssemblyInfo.cs
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.dll
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\ref\lab 2.dll
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.pdb
+D:\Visual Studio\2 СЕМЕСТР\Lab 2\Task\lab 2\obj\Debug\net6.0-windows\lab 2.genruntimeconfig.cache
