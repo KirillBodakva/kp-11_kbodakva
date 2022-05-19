@@ -1,0 +1,22 @@
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.csproj.AssemblyReference.cache
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\App.g.cs
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2_MarkupCompile.cache
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2_MarkupCompile.lref
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\bin\Debug\net5.0-windows\LABbb 2.exe
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\bin\Debug\net5.0-windows\LABbb 2.deps.json
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\bin\Debug\net5.0-windows\LABbb 2.runtimeconfig.json
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\bin\Debug\net5.0-windows\LABbb 2.runtimeconfig.dev.json
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\bin\Debug\net5.0-windows\LABbb 2.dll
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\bin\Debug\net5.0-windows\LABbb 2.pdb
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.g.resources
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.AssemblyInfoInputs.cache
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.AssemblyInfo.cs
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.dll
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\refint\LABbb 2.dll
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.pdb
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\LABbb 2.genruntimeconfig.cache
+D:\Visual Studio\1 курс\2 семестр\LABbb 2\obj\Debug\net5.0-windows\ref\LABbb 2.dll
