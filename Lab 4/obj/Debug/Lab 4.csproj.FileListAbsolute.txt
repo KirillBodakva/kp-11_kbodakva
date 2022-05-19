@@ -1,0 +1,16 @@
+D:\Visual Studio\1 курс\2 семестр\Lab 4\bin\Debug\Lab 4.exe.config
+D:\Visual Studio\1 курс\2 семестр\Lab 4\bin\Debug\Lab 4.exe
+D:\Visual Studio\1 курс\2 семестр\Lab 4\bin\Debug\Lab 4.pdb
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4.csproj.AssemblyReference.cache
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\App.g.cs
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4_MarkupCompile.cache
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4_MarkupCompile.lref
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\MainWindow.baml
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4.g.resources
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab_4.Properties.Resources.resources
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4.csproj.GenerateResource.cache
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4.exe
+D:\Visual Studio\1 курс\2 семестр\Lab 4\obj\Debug\Lab 4.pdb
