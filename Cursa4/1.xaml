@@ -1,0 +1,78 @@
+﻿<Window x:Class="Lab_4._1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_4"
+        mc:Ignorable="d"
+        Title="Вікно видачі сертифікату" Height="500" Width="665" ResizeMode="NoResize" Cursor="Arrow">
+    <Grid>
+
+        <DataGrid
+            x:Name="d1" HorizontalAlignment="Left" 
+            Width="182" Margin="24,64,0,26" FontFamily="Segoe UI" Cursor="Cross">
+        </DataGrid>
+
+        <DataGrid
+            x:Name="d3" HorizontalAlignment="Left" 
+            Width="195" Margin="423,65,0,164" FontFamily="Segoe UI" Cursor="Cross">
+        </DataGrid>
+
+        <DataGrid
+            x:Name="d2" HorizontalAlignment="Left" 
+            Width="207" Margin="211,65,0,164" FontFamily="Segoe UI" Cursor="Cross">
+        </DataGrid>
+
+        <Button Content="Exit" Margin="512,402,0,0" Click="Button_Click" HorizontalAlignment="Left" 
+                Width="106" Height="40" VerticalAlignment="Top">
+        </Button>
+
+        <ComboBox
+            x:Name="cb1" HorizontalAlignment="Left" Margin="283,372,0,0" VerticalAlignment="Top" 
+            Width="120" Height="34">
+            <ComboBoxItem Content = "Aміго"/>
+            <ComboBoxItem Content = "Гранд-Дог"/>
+            <ComboBoxItem Content = "AПОРТ"/>
+            <ComboBoxItem Content = "DOGMA"/>
+            <ComboBoxItem Content = "Енімалс"/>
+            <ComboBoxItem Content = "ЮЛДУЗ"/>
+            <ComboBoxItem Content = "Кінологічний клуб"/>
+            <ComboBoxItem Content = "Вожак"/>
+            <ComboBoxItem Content = "ДОГ-КЛУБ"/>
+            <ComboBoxItem Content = "Реванш"/>
+        </ComboBox>
+
+        <ComboBox 
+            x:Name="cb2" HorizontalAlignment="Left" Margin="283,410,0,0" VerticalAlignment="Top" 
+            Width="120" Height="34">
+            <ComboBoxItem Content = "Мальтіпу"/>
+            <ComboBoxItem Content = "Коргі"/>
+            <ComboBoxItem Content = "Англійський бульдог"/>
+            <ComboBoxItem Content = "Німецька вівчарка"/>
+            <ComboBoxItem Content = "Пудель"/>
+            <ComboBoxItem Content = "Бордед-колі"/>
+            <ComboBoxItem Content = "Мопс"/>
+            <ComboBoxItem Content = "Чау-чау"/>
+            <ComboBoxItem Content = "Бладхаунт"/>
+            <ComboBoxItem Content = "Шіба-іну"/>
+        </ComboBox>
+
+        <TextBlock HorizontalAlignment="Left" Height="34" Margin="213,26,0,0" TextWrapping="Wrap" 
+                   Text="Кількість учасників по кожній породі:" VerticalAlignment="Top" Width="205"/>
+        <TextBlock HorizontalAlignment="Left" Height="34" Margin="24,26,0,0" TextWrapping="Wrap" 
+                   Text="Список усіх собак, які беруть участь у виставці:" VerticalAlignment="Top" Width="182"/>
+        <TextBlock HorizontalAlignment="Left" Height="34" Margin="223,333,0,0" TextWrapping="Wrap" 
+                   Text="Налаштування для отримання довідки:" VerticalAlignment="Top" Width="180"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="228,380,0,0" TextWrapping="Wrap" 
+                   Text="Клуб" VerticalAlignment="Top" Width="55"/>
+        <TextBlock HorizontalAlignment="Left" Height="18" Margin="228,418,0,0" TextWrapping="Wrap" 
+                   Text="Порода" VerticalAlignment="Top" Width="55"/>
+        <TextBlock HorizontalAlignment="Left" Height="39" Margin="423,26,0,0" TextWrapping="Wrap" 
+                   Text="Отримані результати про кількість призерів за довідкою:" VerticalAlignment="Top" Width="195">
+        </TextBlock>
+        
+        <Button x:Name="gen" Content="Generate" Margin="512,350,0,0" Click="Gen_Click" HorizontalAlignment="Left" 
+            Width="106" Height="40" VerticalAlignment="Top">
+        </Button>
+    </Grid>
+</Window>

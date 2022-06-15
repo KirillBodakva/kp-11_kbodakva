@@ -1,0 +1,47 @@
+﻿<Window x:Class="Lab_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_4"
+        mc:Ignorable="d"
+        Title="Головне вікно інформаційної системи виставки собак" Height="500" Width="840" ResizeMode="NoResize" Cursor="Arrow">
+    <Grid OpacityMask="#FFACA9A9" Cursor="Arrow">
+
+        <DataGrid
+            x:Name="dt" HorizontalAlignment="Left" 
+                  Width="671" Margin="24,44,0,37" FontFamily="Segoe UI" Cursor="Cross">
+        </DataGrid>
+        
+        <ComboBox x:Name="cb" HorizontalAlignment="Left" Height="40" Margin="713,95,0,0" 
+                  VerticalAlignment="Top" Width="93" VerticalContentAlignment="Center"
+                  HorizontalContentAlignment="Center" Cursor="Hand">
+            <ComboBoxItem Content="Breeds"/>
+            <ComboBoxItem Content="Dogs"/>
+            <ComboBoxItem Content="Experts"/>
+            <ComboBoxItem Content="Clubs"/>
+            <ComboBoxItem Content="Medals"/>
+            <ComboBoxItem Content="Vystupy"/>
+            <ComboBoxItem Content="Owners"/>
+            <ComboBoxItem Content="DogClub"/>
+            <ComboBoxItem Content="OwnerDog"/>
+        </ComboBox>
+
+        <Button x:Name="b1" Content="Open" HorizontalAlignment="Left" Margin="713,152,0,0" 
+                Height="40" Width="93" VerticalAlignment="Top" Click="b1_Click" Cursor="Hand">
+        </Button>
+
+        <Button x:Name="b2" Content="Exit" HorizontalAlignment="Left" Margin="713,382,0,0" 
+                Width="93" Click="b2_Click" Cursor="Hand" Height="40" VerticalAlignment="Top">
+        </Button>
+        
+        <Button x:Name="b3" Content="Edit" HorizontalAlignment="Left" Margin="713,209,0,0" 
+            Height="40" Width="93" VerticalAlignment="Top" Click="b3_Click" Cursor="Hand"/>
+        <Button x:Name="b4" Content="Certificate" HorizontalAlignment="Left" Margin="713,266,0,0" 
+            Height="40" Width="93" VerticalAlignment="Top" Click="b4_Click" Cursor="Hand"/>
+        <TextBlock HorizontalAlignment="Left" Height="29" Margin="24,10,0,0" TextWrapping="Wrap" Text="Перегляд даних з вибраної таблиці.                          Для редагування оберіть зі списку необхідну таблицю та нажміть Edit." VerticalAlignment="Top" Width="671"/>
+        <Button x:Name="b5" Content="Query" HorizontalAlignment="Left" Margin="713,323,0,0" 
+            Height="40" Width="93" VerticalAlignment="Top" Click="b5_Click" Cursor="Hand"/>
+        <TextBlock HorizontalAlignment="Left" Height="35" Margin="730,44,0,0" TextWrapping="Wrap" Text="Оберіть таблицю:" VerticalAlignment="Top" Width="76"/>
+    </Grid>
+</Window>

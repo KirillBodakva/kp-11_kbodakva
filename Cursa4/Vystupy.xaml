@@ -1,0 +1,23 @@
+﻿<Window x:Class="Lab_4.Vystupy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_4"
+        mc:Ignorable="d"
+        Title="Редагування даних про виступи" Height="500" Width="850">
+    <Grid>
+        <DataGrid x:Name="d1" HorizontalAlignment="Left" Height="420" Margin="10,35,0,0" VerticalAlignment="Top" Width="372"/>
+        <Button x:Name="b1" Content="Ввести" HorizontalAlignment="Left" Margin="392,415,0,0" VerticalAlignment="Top" Width="93" Height="40" Click="b1_Click"/>
+        <Button x:Name="b2" Content="Видалити" HorizontalAlignment="Left" Margin="501,415,0,0" VerticalAlignment="Top" Width="93" Height="40" Click="b2_Click"/>
+        <Button x:Name="b3" Content="Оновити" HorizontalAlignment="Left" Margin="613,415,0,0" VerticalAlignment="Top" Width="94" Height="40" Click="b3_Click"/>
+        <Button x:Name="b4" Content="Вийти" HorizontalAlignment="Left" Margin="725,415,0,0" VerticalAlignment="Top" Width="93" Height="40" Click="b4_Click"/>
+        
+        <Label x:Name="l1" Content="№ собаки:" HorizontalAlignment="Left" Margin="398,50,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="t1" KeyUp="t1up" MouseDoubleClick="td" FontSize="16" Text="" HorizontalAlignment="Left" Height="31" Margin="565,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
+        <Label x:Name="l2" Content="№ медалі:" HorizontalAlignment="Left" Margin="398,90,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="t2" KeyUp="t2up" MouseDoubleClick="td" FontSize="16" Text="" HorizontalAlignment="Left" Height="31" Margin="565,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
+        <Label x:Name="l3" Content="№ експерта:" HorizontalAlignment="Left" Margin="398,130,0,0" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="t3" KeyUp="t3up" MouseDoubleClick="td" FontSize="16" Text="" HorizontalAlignment="Left" Height="31" Margin="565,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="128"/>
+    </Grid>
+</Window>
